@@ -6,5 +6,5 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.momento-ads</groupId>
     <artifactId>momento-android-sdk</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.5</version>
 </project>
