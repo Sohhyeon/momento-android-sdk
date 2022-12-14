@@ -7,6 +7,7 @@
     <groupId>com.github.momento-ads</groupId>
     <artifactId>momento-android-sdk</artifactId>
     <version>0.0.15</version>
+    <packaging>aar</packaging>
     <dependencies>
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
